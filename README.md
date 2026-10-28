@@ -18,13 +18,19 @@ I give some suggestion based on my own experience bellow
 
 ### How to organize your code
 
-I recomend following the guidelines provided here: [link]
-(https://github.com/paperswithcode/releasing-research-code/blob/master/templates/README.md)
+A few suggestions from [Papers with Code](https://github.com/paperswithcode/releasing-research-code):
+
+- List dependencies and installation steps.
+- Provide training and evaluation scripts, including the hyperparameters used.
+- Document exact commands and expected results in the README.
+- Share pretrained models so others can check results without retraining.
+
+Example: [automatic-ecg-diagnosis](https://github.com/antonior92/automatic-ecg-diagnosis).
 
 
 ### Running remotely
 I highly recomend running experiments remotely.
- e have access to the following:
+We have access to the following:
 - National Academic Infrastructure for Supercomputing in Sweden (NAISS) [link](https://www.naiss.se/)
 - Local division server (only for PhD / Postdocs)
 
