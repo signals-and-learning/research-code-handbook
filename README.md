@@ -6,7 +6,7 @@ The most important thing for research code, is that it should be reproducible:  
 
 1. For larger experiments / code base don't use jupyter notebooks. Use python scripts. (see [link](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit?slide=id.g362da58057_0_639) for some reasoning)
 2. Save intermediate results.
-3. Use version control
+3. Use version control.
 
 
 ## Some resources:
@@ -30,7 +30,7 @@ We have access to the following:
 - National Academic Infrastructure for Supercomputing in Sweden (NAISS) [link](https://www.naiss.se/)
 - Local division server (only for PhD / Postdocs)
 
-Master students and visitors might have limited access to the above. Then I recoment:
+Master students and visitors might have limited access to the above. Then I recomend:
 - [Google Colab](https://colab.research.google.com/)
 - [Kaggle](https://www.kaggle.com/)
 - [Lightning AI](https://lightning.ai/)
