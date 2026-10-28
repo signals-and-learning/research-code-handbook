@@ -1,10 +1,6 @@
 # Suggestions for high-quality research code
 
-The most important thing for research code, is that it should be reproducible: 
-
-*you (and others) should be able to repeat your own results.* 
-
-I give some suggestion based on my own experience bellow
+The most important thing for research code, is that it should be reproducible:  *you (and others) should be able to repeat your own results.*  I give some suggestion based on my own experience bellow
 
 ## Some advice:
 
