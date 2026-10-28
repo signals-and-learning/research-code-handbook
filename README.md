@@ -8,7 +8,7 @@ I give some suggestion based on my own experience bellow
 
 ## Some advice:
 
-1. For larger experiments / code base don't use jupyter notebooks. Use python scripts. (see [link](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit?slide=id.g362da58057_0_639#slide=id.g362da58057_0_639) for some reasoning)
+1. For larger experiments / code base don't use jupyter notebooks. Use python scripts. (see [link](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit?slide=id.g362da58057_0_639) for some reasoning)
 2. Save intermediate results.
 3. Use version control
 
